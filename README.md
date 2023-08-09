@@ -24,10 +24,13 @@
   Use the command "npm i" to install neccessary packages to run this application.
 
 ## Usage
-  Video Link Goes here
+  https://drive.google.com/file/d/193klQrJsytgMELcxM_Ljbg2Qr44AHli6/view
 
 ## Display
-  ![message](link)
+  ![1](./images/1.png)
+  ![2](./images/2.png)
+  ![3](./images/3.png)
+  ![4](./images/4.png)
 
 ## License
   https://mit-license.org/
