@@ -2,7 +2,14 @@
   ![Badge for License](https://shields.io/badge/license-MIT-red.svg)
 
 ## Description
-  In this application i'm building a back end for a e-commerce website. The goal is to use a working Express.js API and configure it to use Sequelize to interact with a MySQL database. I'll use Insomnia to test my back end and make sure everything works as expected. 
+  This is a back-end application i'm building for an e-commerce website. The goal is to use a working Express.js API and configure it to use Sequelize to interact with a MySQL database. I'll use Insomnia to test my back end and make sure everything works as expected.
+
+  Tech used:
+
+  * Express.js
+  * MySQL2
+  * Sequelize
+  * .env
 
 ## Table of contents
   * [Installation](#installation)
@@ -14,7 +21,7 @@
   * [Questions](#questions)
 
 ## Installation
-  None
+  Use the command "npm i" to install neccessary packages to run this application.
 
 ## Usage
   Video Link Goes here
@@ -26,7 +33,7 @@
   https://mit-license.org/
 
 ## Contributors
-  Travis
+  Travis Rivera
 
 ## Test
   To test this application I used Insomnia but you can use other API tools such as Postman.
